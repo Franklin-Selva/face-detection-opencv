@@ -1,3 +1,3 @@
 # face-detection-opencv
 
-This repository contains classic implementation of face detection using OpenCV library. 
+This repository contains classic implementation of face detection using OpenCV library and python.
